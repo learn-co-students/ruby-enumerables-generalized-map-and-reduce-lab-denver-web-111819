@@ -1,4 +1,4 @@
-require 'spec_helper'
+ require 'spec_helper'
 
 describe 'my own map' do
   it "returns an array with all values made negative" do
